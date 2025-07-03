@@ -16,7 +16,7 @@
 [[main]]
   parent = "Programm"
   name = "PC3 - Mob Sci-dat Factory"
-  url = "PC3"
+  url = "pc"
 #[[main]]
 #  parent = "Programm"
 #  name = ""
