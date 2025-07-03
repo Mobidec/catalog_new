@@ -8,9 +8,9 @@
   LanguageName = "English"
   weight = 2
 
-#[pt]
-#  title = "Claridade" # just for the sake of showing this is possible
-#  LanguageName = "Português"
-#  weight = 3
+[pt]
+  title = "Claridade" # just for the sake of showing this is possible
+  LanguageName = "Português"
+  weight = 3
 
   # tip: assign the default language the lowest Weight
