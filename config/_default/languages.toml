@@ -3,10 +3,10 @@
   languageName = "Français"
   weight = 1
 
-[en]
-  title = "Clarity"
-  LanguageName = "English"
-  weight = 2
+#[en]
+#  title = "MOBIDEC"
+#  LanguageName = "English"
+#  weight = 2
 
 #[pt]
 #  title = "Claridade" # just for the sake of showing this is possible

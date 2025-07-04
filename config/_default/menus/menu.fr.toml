@@ -17,23 +17,13 @@
   parent = "Programm"
   name = "PC3 - Mob Sci-dat Factory"
   url = "pc"
-#[[main]]
-#  parent = "Programm"
-#  name = ""
-#  url = "https://x.com/"
-
-#[[main]]
-#  name = "About"
-#  url = "about/"
-#  weight = -107
 
 # social menu links
-
 [[social]]
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/ifpen-chassea/MOBIDEC"
+  url = "https://github.com/Mobidec"
 #[[social]]
 #  name = "X"
 #  weight = 2
