@@ -15,7 +15,7 @@ aliases = ["migrate-from-jekyl"]
 thumbnail = ""
 +++
 
-Dans le cadre de la publication des travaux du CEREMA(inventaire + glossaire), et après avoir exploré divers outils, nous avons ainsi amorcé la création d’un site web basé sur des fichiers Markdown, accessible aux liens suivants :
+Dans le cadre de la publication des travaux du CEREMA (inventaire + glossaire), et après avoir exploré divers outils, nous avons ainsi amorcé la création d’un site web basé sur des fichiers Markdown, accessible aux liens suivants :
 
 <!--more-->
 
